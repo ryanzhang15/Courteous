@@ -1,5 +1,5 @@
 //
-//  main.courteousplusplus
+//  main.cpp
 //  Courteous
 //
 //  Created by Ryan Zhang on 19/7/2022.
