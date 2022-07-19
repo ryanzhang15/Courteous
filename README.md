@@ -11,3 +11,7 @@ A work in progress. Excited to announce the first beta version.
 LinkedIn: www.linkedin.com/in/c8kbf</br>
 Email: ryanjzhang@gmail.com</br>
 Discord: c8k#0064</br>
+
+### Kenneth Fu
+
+Email: kennethfu023@gmail.com</br>
