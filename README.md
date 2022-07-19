@@ -4,9 +4,9 @@ An esoteric but kinda useful "C++"-like language, respectfully.
 
 A work in progress. Excited to announce the first beta version.
 
-##Contact Info:
+## Contact Info:
 
-###Ryan Zhang
+### Ryan Zhang
 
 LinkedIn: www.linkedin.com/in/c8kbf
 Email: ryanjzhang@gmail.com
