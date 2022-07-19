@@ -42,6 +42,13 @@
 #include <random>
 #include <functional>
 
+#include <fstream>
+#include <iterator>
+#include <limits>
+#include <sstream>
+#include <streambuf>
+#include <utility>
+
 //namespaces.
 using namespace std;
 
@@ -55,6 +62,11 @@ typedef string str;
 typedef vector<_> v_;
 typedef pair<_, _> _p;
 typedef const long long constant;
+typedef long long ll;
+typedef vector<int> vi;
+typedef vector<ll> vl;
+typedef pair<int,int> pii;
+typedef pair<ll,ll> pll;
 
 //defines.
 #define ef else if
@@ -77,5 +89,7 @@ typedef const long long constant;
 
 #define pr(x, y) pair< x, y >
 #define mp(x, y) make_pair(x, y)
+
+#define pb push_back
 
 #endif /* shortcuts_h */
