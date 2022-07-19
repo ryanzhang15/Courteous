@@ -8,6 +8,6 @@ A work in progress. Excited to announce the first beta version.
 
 ### Ryan Zhang
 
-LinkedIn: www.linkedin.com/in/c8kbf
-Email: ryanjzhang@gmail.com
-Discord: c8k#0064
+LinkedIn: www.linkedin.com/in/c8kbf</br>
+Email: ryanjzhang@gmail.com</br>
+Discord: c8k#0064</br>
